@@ -1,0 +1,13 @@
+{
+  "name": "clessidra-bot",
+  "version": "1.0.0",
+  "description": "An automated clessidra",
+  "main": "index.js",
+  "author": "Paolo Cavagnolo",
+  "private": true,
+  "license": "copyleft",
+  "dependencies": {
+    "hapi": "^13.5.3",
+    "inert": "^4.2.0"
+  }
+}
