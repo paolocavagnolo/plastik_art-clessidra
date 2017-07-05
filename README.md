@@ -1,7 +1,9 @@
 #Raspberry configuration
 
-- password: multiker
+- password: "associazione di jacopo"
 - aggiornato tutto: 29-06-2017 13:00
+
+#Router configuration
 - 
 
 #HAPI configuration
