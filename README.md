@@ -4,7 +4,9 @@
 - aggiornato tutto: 29-06-2017 13:00
 
 #Router configuration
-- 
+
+- SSID: "clessidra"
+- PSK: "cesena2017"
 
 #HAPI configuration
 - create folder 'clessidra'
